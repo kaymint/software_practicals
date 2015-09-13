@@ -10,7 +10,7 @@
 		<table>
 			<tr>
 				<td colspan="2" id="pageheader">
-					Application Header
+					Software Engineering
 				</td>
 			</tr>
 			<tr>
